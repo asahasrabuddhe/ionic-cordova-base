@@ -1,4 +1,4 @@
-FROM node:6.14-jessie
+FROM node:10.22.0-jessie
 
 RUN npm i -g ionic cordova
 
